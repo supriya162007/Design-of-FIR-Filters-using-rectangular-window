@@ -52,3 +52,4 @@ disp(h);
 <img width="610" height="460" alt="image" src="https://github.com/user-attachments/assets/d516cef1-e1d8-4be3-9b6c-a7aec2ec5de6" />
 
 # RESULT
+The output waveform is verified
